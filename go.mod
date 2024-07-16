@@ -1,6 +1,6 @@
 module github.com/bnb-chain/greenfield-bundle-sdk
 
-go 1.18
+go 2.06
 
 require (
 	github.com/bnb-chain/greenfield-go-sdk v1.2.1
